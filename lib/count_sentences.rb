@@ -31,5 +31,6 @@ class String
       self.count_sentences
     else
       return 0
+    end
   end
 end
